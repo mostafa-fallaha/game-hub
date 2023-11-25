@@ -5,7 +5,6 @@ import {
   List,
   ListItem,
   SkeletonText,
-  Spinner,
   Text,
 } from "@chakra-ui/react";
 import useGenres, { Genre } from "../hooks/useGenres";
